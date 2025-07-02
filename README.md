@@ -49,16 +49,20 @@ To apply core Python data science libraries to explore, visualize, and analyze d
 ---
 ## 📸 Sample Visualizations
 ### Word Cloud
-![trend_analysis png](https://github.com/user-attachments/assets/648eb08e-b671-43a2-9f57-f4cf21b8ce4b)
+![wordcloud png](https://github.com/user-attachments/assets/d82a9496-5fb2-4fb8-89df-7949f4d6da83)
+
 
 ### Correlation Matrix
-![correlation_matrix png](https://github.com/user-attachments/assets/1f47507f-8869-4c79-8ca4-8159d6d24507)
+![correlation_matrix png](https://github.com/user-attachments/assets/d9f0be8c-5193-4b96-b24c-eccd4fd00367)
+
 
 ### Trend Analysis
-![trend_analysis png](https://github.com/user-attachments/assets/648eb08e-b671-43a2-9f57-f4cf21b8ce4b)
+![trend_analysis png](https://github.com/user-attachments/assets/86ff69ea-dc43-4160-b42f-9ac9482ff3a7)
+
 
 ### Sentiment Distribution
-![sentiment_distribution png](https://github.com/user-attachments/assets/cce3d511-87b0-4123-875b-32bad6592107)
+
+![sentiment_distribution png](https://github.com/user-attachments/assets/1512fd93-a94a-4f04-8142-4ec4dd1a5fa4)
 
 
 
