@@ -47,20 +47,18 @@ This repository contains a Jupyter Notebook showcasing my practical work in data
 To apply core Python data science libraries to explore, visualize, and analyze datasets both visually and statistically — with an emphasis on clarity, trends, and insights.
 
 ---
+## 📸 Sample Visualizations
 ### Word Cloud
-![Word Cloud](wordcloud.png)
+![trend_analysis png](https://github.com/user-attachments/assets/648eb08e-b671-43a2-9f57-f4cf21b8ce4b)
 
 ### Correlation Matrix
-![Correlation Matrix](correlation_matrix.png)
+![correlation_matrix png](https://github.com/user-attachments/assets/1f47507f-8869-4c79-8ca4-8159d6d24507)
 
 ### Trend Analysis
-![Trend Analysis](trend_analysis.png)
+![trend_analysis png](https://github.com/user-attachments/assets/648eb08e-b671-43a2-9f57-f4cf21b8ce4b)
 
 ### Sentiment Distribution
-![Sentiment Distribution](sentiment_distribution.png)
-
-
-<!-- added temporary change -->
+![sentiment_distribution png](https://github.com/user-attachments/assets/cce3d511-87b0-4123-875b-32bad6592107)
 
 
 
